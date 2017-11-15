@@ -4,6 +4,7 @@ title:      "外企生存实录（一）"
 subtitle:   "外企生存实录"
 date:       2017-11-15 12:00:00
 author:     "Xiaoyun"
+header-img: "img/post-bg-android.jpg"
 tags:
     - 外企
     - 职场
